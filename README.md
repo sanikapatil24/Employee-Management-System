@@ -234,7 +234,7 @@ Through this project, I gained practical experience with:
 
 **Sanika Patil**
 
-Software Engineering Student
+Computer Science Engineering Student
 
 ---
 
